@@ -1,3 +1,37 @@
 Work.Notes.phd{
 
 }
+
+ForHome.Dev.ErrorHandling{
+
+No debugging. Avoid debugging, as it is expensive operation. 
+Instead add extensive logging and diagnostics. Also add custome builds with extended diagnostic abilities.
+Avoid heavy error handling, as it makes the code not elegant. Instead prefer error handling platform API that invokes appropriate functions.
+Embed UnitTesting in the code itself.
+
+setExtendedLogging(High);
+setErrorHandling(Critical);
+
+APICall::doSomething();
+
+restoreLogging();
+
+Error handling scenarios:
+	- Halt terminate the application
+	- Display assert(debug diagnostic)
+	- Exit the current routine
+	- log call stack and continue
+	- log error and continue
+	- retry(?)
+	- log info
+
+
+try{
+  APICall::doSomething();  
+}catch(...){
+   Log error
+   ask user to retry
+}
+
+
+}
