@@ -1,14 +1,21 @@
 ToDo{
-Setup Windows Explorer
-Chrome
-Mozilla
-WinRAR
-Notepad++
-Apps link
-Oracle Virtual Box 
-Visual Studio
+  Visual Studio
+  Perforce
+  Setup Windows Explorer
+  Notepad++
+  Skype
+  Oracle Virtual Box 
 }
+
+Windows10.WindowsExplorer.Setup{
+
+}
+
 Done{
-	Git
+  Apps link
+  Chrome
+  Mozilla
+  Git
+  WinRAR
 }
 
