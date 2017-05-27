@@ -1,0 +1,14 @@
+ToDo{
+Setup Windows Explorer
+Chrome
+Mozilla
+WinRAR
+Notepad++
+Apps link
+Oracle Virtual Box 
+Visual Studio
+}
+Done{
+	Git
+}
+
