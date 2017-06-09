@@ -1,21 +1,64 @@
 ToDo{
-  Visual Studio
-  Perforce
+  Del key 
+  Alt + Tab
+  Snag It
+  
+  ADP+Caraco
+  Linked In reply
+  
+  Hybrid Data Access
+  Perforce Dev 0
+  
   Setup Windows Explorer
-  Notepad++
-  Skype
-  Oracle Virtual Box 
+  Malware free bytes
+  
+  eBay parts
 }
 
 Windows10.WindowsExplorer.Setup{
+	Folder Options -> "Open File Explorer to" -> "This PC"
+
+	Ctrl + Shift + N	Creates a new folder at the current location.
+	Ctrl + W		Closes the current window
+	Ctrl + Mouse wheel	Changes the folder view type.
 
 }
 
 Done{
+  
+  Visual Studio and Build
+  Oracle Virtual Box
+  Notepad++
+  Perforce
+  Skype
   Apps link
   Chrome
   Mozilla
   Git
   WinRAR
+}
+
+MSDN Subscription{
+	dragomir.dichev@citrix.com
+	Nopass123
+}
+
+Dev{
+	Projects{
+		GDLib.Win32Ctrls.Layout
+		GDLib.Parser
+		GDLib.SHA2Generator
+		Segovia
+	}
+	
+	ErrorHandling{
+		Represent the error handling as events*.{
+			Null pointer exception
+			Out of Memory
+			Fatal Error
+			Basic Diagnostics
+			
+		}
+	}
 }
 
