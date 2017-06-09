@@ -38,11 +38,6 @@ Done{
   WinRAR
 }
 
-MSDN Subscription{
-	dragomir.dichev@citrix.com
-	Nopass123
-}
-
 Dev{
 	Projects{
 		GDLib.Win32Ctrls.Layout
