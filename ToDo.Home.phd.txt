@@ -11,8 +11,6 @@ ToDo{
   
   Setup Windows Explorer
   Malware free bytes
-  
-  eBay parts
 }
 
 Windows10.WindowsExplorer.Setup{
